@@ -17,6 +17,9 @@
     --white-light:#c6c8c9;
     --border: 1px solid #7a90f5;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 
 .btn{
